@@ -1,7 +1,5 @@
 # Java DSA Practice Repository
 
-![Brain Gym](https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif)
-
 This repo contains my complete DSA preparation using structured topic-wise resources in Java. Inspired by curated sheets like [Striver’s A2Z DSA Sheet](https://takeuforward.org/interview-roadmap/strivers-a2z-dsa-course-sheet-2/), it includes clean code, problem approaches, and time/space complexities.
 
 ## 🎯 Objective
@@ -59,5 +57,5 @@ This repo contains my complete DSA preparation using structured topic-wise resou
 
 **Let’s crack DSA, one byte at a time! 🚀**
 
-![Victory](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![You Got This](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlnbHNwOTVyN2t5MDd3ZnQ5aHRxZDducTN6em5sMXBzMDVkNjAwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12vJgj7zMN3jPy/giphy.gif)
 
