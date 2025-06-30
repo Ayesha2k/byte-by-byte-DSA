@@ -4,7 +4,7 @@ This repo contains my complete DSA preparation using structured topic-wise resou
 
 ## 🎯 Objective
 
-- ✅ Build strong [concepts in DSA](./DSA_Concepts) 
+- ✅ Build strong [concepts in DSA](./DSA_Concepts.md) 
 - 💼 Prepare for backend/software engineer interviews.
 - 📘 [Track progress](./Progress_Tracker) of 300+ problems in one place.
 
