@@ -4,9 +4,9 @@ This repo contains my complete DSA preparation using structured topic-wise resou
 
 ## 🎯 Objective
 
-- ✅ Build strong core in DSA
-- 💼 Prepare for backend/software engineer interviews
-- 📘 Track 300+ solved problems in one place
+- ✅ Build strong [concepts in DSA](./DSA_Concepts) 
+- 💼 Prepare for backend/software engineer interviews.
+- 📘 [Track progress](./Progress_Tracker) of 300+ problems in one place.
 
 ---
 
@@ -15,7 +15,7 @@ This repo contains my complete DSA preparation using structured topic-wise resou
 | Sl. | Topic                     | Folder Name (planned)       |
 |-----|---------------------------|------------------------------|
 | 01  | Introduction & Basics     | 01-Introduction              |
-| 02  | Mathematics               | 02-Basics-Maths              |
+| 02  | Mathematics               | [02-Basics-Maths](./02-Basics-Maths) |
 | 03  | Bit Manipulation          | 03-Bit-Manipulation          |
 | 04  | Recursion & Backtracking  | 04-Recursion                 |
 | 05  | Arrays                    | 05-Arrays                    |
