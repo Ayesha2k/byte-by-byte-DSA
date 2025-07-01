@@ -4,5 +4,5 @@ This is just a sample file. questions will be added as i keep on practicing...
 
 | # | Problem                  | Approach | Time & Space | Takeaway |
 |---|--------------------------|----------|--------------|----------|
-| 1 | Reverse Array            | 2-pointers | O(n), O(1)   | Swapping in-place |
-| 2 | Kadane’s Algorithm       | Greedy    | O(n), O(1)   | Reset on -ve sum  |
+| 1 | Count Digits            | /10 | O(logn), O(1)   | /10 to remove last digit |
+| 2 | Reverse a Number      |    |   |   |
