@@ -15,7 +15,7 @@ This repo contains my complete DSA preparation using structured topic-wise resou
 | Sl. | Topic                     | Folder Name (planned)       |
 |-----|---------------------------|------------------------------|
 | 01  | Introduction & Basics     | 01_Introduction              |
-| 02  | Mathematics               | [02_Basics_Maths](./02_Basics_Maths) |
+| 02  | Mathematics               | [02_Basic_Maths](./Basic_Maths) |
 | 03  | Bit Manipulation          | 03-Bit-Manipulation          |
 | 04  | Recursion & Backtracking  | 04-Recursion                 |
 | 05  | Arrays                    | 05-Arrays                    |
