@@ -1,6 +1,11 @@
 # DSA Progress Tracker
 
-| Date       | Topic        | Problem           | Status   | Confidence | Notes |
-|------------|--------------|-------------------|----------|------------|-------|
-| 1-July-25  | Basic Maths  | Count Digits      | ✅ Done   | High       | /10 till exhaustion |
-| 1-July-25  | Basic Maths  | Reverse a Number  | ✅ Done   | High       |       |
+| Date       | Topic        | Problem           | Status   | Confidence |
+|------------|--------------|-------------------|----------|------------|
+| 1-July-25  | Basic Maths  | Count Digits      | ✅ Done  | High      | 
+| 1-July-25  | Basic Maths  | Reverse a Number  | ✅ Done  | High      |
+| 2-July-25  | Basic Maths  | Check Palindrome  | ✅ Done  | Medium    | 
+| 2-July-25  | Basic Maths  | GCDOrHCF          | ⏳ To Do |           |
+| 2-July-25  | Basic Maths  | ArmstrongNumbers  | ⏳ To Do |           | 
+| 2-July-25  | Basic Maths  | PrintAllDivisors  | ⏳ To Do |           | 
+| 2-July-25  | Basic Maths  | CheckForPrime     | ⏳ To Do |           |   

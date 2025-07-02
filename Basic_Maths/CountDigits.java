@@ -1,4 +1,9 @@
 public class CountDigits {
+    /*
+    PROBLEM STATEMENT : 
+    You are given an integer n. You need to return the number of digits in the number.
+    The number will have no leading zeroes, except when the number is 0 itself.
+    */
     public static void main(String[] args) {
         System.out.println("Welcome...");
         int num = 8765;
