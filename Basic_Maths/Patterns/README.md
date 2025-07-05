@@ -37,10 +37,13 @@ Each pattern helps strengthen logic-building and loop mastery. These are my firs
 
 ## 🚀 Why Patterns?
 
-- 💡 Build logic & confidence with loops
-- 🔁 Master nested loops & conditions
-- 📦 Prepare for arrays, matrices, and recursion
-- 🧠 Exercise your brain with structured thinking
+---
+## 🧠 Trick to solve Patterns
+
+1. Count number of rows --> for the outer loop.
+2. Focus on columns and try to relate columns to rows --> for the inner loop.
+3. Print '*' inside inner loop.
+4. Observe symmetry [OPTIONAL].
 
 ---
 
