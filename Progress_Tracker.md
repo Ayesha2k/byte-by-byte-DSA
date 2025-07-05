@@ -12,7 +12,7 @@
 | 4-July-25  | Basic Maths  | PrintAllDivisors  | ✅ Done  | Medium    | 
 | 4-July-25  | Basic Maths  | CheckForPrime     | ✅ Done  | High      |   
 
-## [Patterns](./Patterns)
+## [Patterns](./Basic_Maths/Patterns)
 
 | Date       | Topic        | Problem           | Status   | Confidence |
 |------------|--------------|-------------------|----------|------------|
