@@ -1,6 +1,12 @@
-# 📂 Basic maths - Problem Summary
+# 🚀 Logic Building Playground
+
+Welcome to your **Logic Building Vault** – where every line of code sharpens your mind and builds your foundation for **Data Structures and Algorithms (DSA)**. Whether you're prepping for coding interviews or strengthening your problem-solving muscles, this section has your back! 💪
+
 ---
-This is just a sample file. questions will be added as i keep on practicing...
+
+## 🧠 Basic Maths – *Crack the Core!*
+
+Master these bite-sized problems that unlock deep insights into how numbers behave. Build up from here and unlock confidence for tougher challenges.
 
 | # | Problem                                               | Approach               | Time & Space   | Takeaway                 |
 |---|-------------------------------------------------------|------------------------|----------------|--------------------------|
@@ -11,3 +17,16 @@ This is just a sample file. questions will be added as i keep on practicing...
 | 5 | [ArmstrongNumbers](ArmstrongNumbers.java)             | sum += ld^count        | O(logn), O(1)  | Math.pow returns double  |
 | 6 | [Print All Divisors](PrintAllDivisors.java)           | If i is a divisor, so is n / i | O(√n * log n),O(√n) | run loop till √n |
 | 7 | [Check for Prime](CheckForPrime.java)                 | break once first divisor is found | O(√n),O(1) |if a no. has any divisor it will be found before √n|
+
+---
+
+## 🎨 Patterns – *Code as Art*
+
+Learning patterns is more than just stars and spaces – it’s your entry into nested loops, logic flow, and visualizing logic on paper.
+
+✨ Dive into fun and challenging pattern problems:  
+👉 [Explore Patterns Here](./Patterns)
+
+> _“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie_
+
+So, code on. Break things. Fix them. Repeat. 🚀
