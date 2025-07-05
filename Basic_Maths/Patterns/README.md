@@ -18,7 +18,7 @@ Each pattern helps strengthen logic-building and loop mastery. These are my firs
 | 6  | 1 2 3<br>1 2<br>1            | [Pattern6.java](./Pattern6.java)          |
 | 7  | &nbsp;&nbsp;\*<br>&nbsp;\*\*\*<br>\*\*\*\*\* | [Pattern7.java](./Pattern7.java) |
 | 8  | \*\*\*\*\*<br>&nbsp;\*\*\*<br>&nbsp;&nbsp;\* | [Pattern8.java](./Pattern8.java) |
-| 9  | &nbsp;&nbsp;\*<br>&nbsp;\*\*\*<br>\*\*\*\*\*<br>&nbsp;\*\*\*<br>&nbsp;&nbsp;\* | [Pattern9.java](./Pattern9.java) |
+| 9  | &nbsp;&nbsp;\*<br>&nbsp;\*\*\*<br>\*\*\*\*\*<br>\*\*\*\*\*<br>&nbsp;\*\*\*<br>&nbsp;&nbsp;\* | [Pattern9.java](./Pattern9.java) |
 | 10 | \*<br>\* \*<br>\* \* \*<br>\* \*<br>\* | [Pattern10.java](./Pattern10.java) |
 | 11 | 1<br>0 1<br>1 0 1<br>0 1 0 1 | [Pattern11.java](./Pattern11.java)        |
 | 12 | _your pattern here_          | [Pattern12.java](./Pattern12.java)        |
