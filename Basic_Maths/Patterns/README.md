@@ -21,7 +21,7 @@ Each pattern helps strengthen logic-building and loop mastery. These are my firs
 | 9  | &nbsp;&nbsp;\*<br>&nbsp;\*\*\*<br>\*\*\*\*\*<br>\*\*\*\*\*<br>&nbsp;\*\*\*<br>&nbsp;&nbsp;\* | [Pattern9.java](./Pattern9.java) |
 | 10 | \*<br>\* \*<br>\* \* \*<br>\* \*<br>\* | [Pattern10.java](./Pattern10.java) |
 | 11 | 1<br>0 1<br>1 0 1<br>0 1 0 1 | [Pattern11.java](./Pattern11.java)        |
-| 12 | 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21<br>123&nbsp;&nbsp;&nbsp;321<br>12344321| [Pattern12.java](./Pattern12.java)|
+| 12 | 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;;21<br>123&nbsp;&nbsp;&nbsp&nbsp;;321<br>12344321| [Pattern12.java](./Pattern12.java)|
 | 13 | 1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15 | [Pattern13.java](./Pattern13.java)        |
 | 14 | A<br>AB<br>ABC<br>ABCD<br>ABCDE | [Pattern14.java](./Pattern14.java)        |
 | 15 | ABCDE<br>ABCD<br>ABC<br>AB<br>A | [Pattern15.java](./Pattern15.java)        |
