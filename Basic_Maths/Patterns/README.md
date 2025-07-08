@@ -21,16 +21,16 @@ Each pattern helps strengthen logic-building and loop mastery. These are my firs
 | 9  | &nbsp;&nbsp;\*<br>&nbsp;\*\*\*<br>\*\*\*\*\*<br>\*\*\*\*\*<br>&nbsp;\*\*\*<br>&nbsp;&nbsp;\* | [Pattern9.java](./Pattern9.java) |
 | 10 | \*<br>\* \*<br>\* \* \*<br>\* \*<br>\* | [Pattern10.java](./Pattern10.java) |
 | 11 | 1<br>0 1<br>1 0 1<br>0 1 0 1 | [Pattern11.java](./Pattern11.java)        |
-| 12 | 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21<br>123&nbsp;&nbsp;&nbsp;&nbsp;321<br>12344321| [Pattern12.java](./Pattern12.java)|
+| 12 | 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21<br>123&nbsp;&nbsp;&nbsp;&nbsp;321<br>12344321| [Pattern12.java](./Pattern12.java)|
 | 13 | 1<br>2 3<br>4 5 6<br>7 8 9 10<br>11 12 13 14 15 | [Pattern13.java](./Pattern13.java)        |
 | 14 | A<br>AB<br>ABC<br>ABCD<br>ABCDE | [Pattern14.java](./Pattern14.java)        |
 | 15 | ABCDE<br>ABCD<br>ABC<br>AB<br>A | [Pattern15.java](./Pattern15.java)        |
 | 16 | A<br>BB<br>CCC<br>DDDD<br>EEEEE | [Pattern16.java](./Pattern16.java)        |
 | 17 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A<br>&nbsp;&nbsp;&nbsp;&nbsp;ABA<br>&nbsp;&nbsp;ABCBA<br>ABCDCBA      | [Pattern17.java](./Pattern17.java)        |
 | 18 | E<br>D E<br>C D E<br>B C D E<br>A B C D E  | [Pattern18.java](./Pattern18.java)        |
-| 19 | \*\*\*\*\*\*\*\*\*\*<br>\*\*\*\*  \*\*\*\*<br>\*\*\*    \*\*\*<br>*\*\      \*\*<br>\*        \*<br>\*        \*<br>*\*\      \*\*<br>\*\*\*    \*\*\*<br>\*\*\*\*  \*\*\*\*<br>\*\*\*\*\*\*\*\*\*\*<br>    | [Pattern19.java](./Pattern19.java)        |
+| 19 | \*\*\*\*\*\*\*\*\*\*<br>\*\*\*\*&nbsp;&nbsp;\*\*\*\*<br>\*\*\*&nbsp;&nbsp;&nbsp;&nbsp;\*\*\*<br>*\*\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\*<br>\*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*<br>\*        \*<br>*\*\      \*\*<br>\*\*\*    \*\*\*<br>\*\*\*\*  \*\*\*\*<br>\*\*\*\*\*\*\*\*\*\*<br>    | [Pattern19.java](./Pattern19.java)        |
 | 20 | _your pattern here_          | [Pattern20.java](./Pattern20.java)        |
-| 21 | \* \* \* \*<br>\*  \*<br>\*  \*<br>\* \* \* \*      | [Pattern21.java](./Pattern21.java)        |
+| 21 | \* \* \* \*<br>\*&nbsp;&nbsp;\*<br>\*&nbsp;&nbsp;\*<br>\* \* \* \*      | [Pattern21.java](./Pattern21.java)        |
 | 22 | 4 4 4 4 4 4 4<br>4 3 3 3 3 3 4<br>4 3 2 2 2 3 4<br>4 3 2 1 2 3 4<br>4 3 2 2 2 3 4<br>4 3 3 3 3 3 4<br>4 4 4 4 4 4 4 | [Pattern22.java](./Pattern22.java)        |
 
 ---
