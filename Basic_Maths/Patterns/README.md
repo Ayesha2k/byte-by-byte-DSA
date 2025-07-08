@@ -26,11 +26,11 @@ Each pattern helps strengthen logic-building and loop mastery. These are my firs
 | 14 | A<br>AB<br>ABC<br>ABCD<br>ABCDE | [Pattern14.java](./Pattern14.java)        |
 | 15 | ABCDE<br>ABCD<br>ABC<br>AB<br>A | [Pattern15.java](./Pattern15.java)        |
 | 16 | A<br>BB<br>CCC<br>DDDD<br>EEEEE | [Pattern16.java](./Pattern16.java)        |
-| 17 | &nbsp;&nbsp;&nbsp;&nbsp;A<br>&nbsp;&nbsp;&nbsp;ABA<br>&nbsp;&nbsp;ABCBA<br>ABCDCBA      | [Pattern17.java](./Pattern17.java)        |
+| 17 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A<br>&nbsp;&nbsp;&nbsp;&nbsp;ABA<br>&nbsp;&nbsp;ABCBA<br>ABCDCBA      | [Pattern17.java](./Pattern17.java)        |
 | 18 | E<br>D E<br>C D E<br>B C D E<br>A B C D E  | [Pattern18.java](./Pattern18.java)        |
 | 19 | \*\*\*\*\*\*\*\*\*\*<br>\*\*\*\*  \*\*\*\*<br>\*\*\*    \*\*\*<br>*\*\      \*\*<br>\*        \*<br>\*        \*<br>*\*\      \*\*<br>\*\*\*    \*\*\*<br>\*\*\*\*  \*\*\*\*<br>\*\*\*\*\*\*\*\*\*\*<br>    | [Pattern19.java](./Pattern19.java)        |
 | 20 | _your pattern here_          | [Pattern20.java](./Pattern20.java)        |
-| 21 | \* \* \* \*<br>*  *<br>*  *<br>\* \* \* \*      | [Pattern21.java](./Pattern21.java)        |
+| 21 | \* \* \* \*<br>\*  \*<br>\*  \*<br>\* \* \* \*      | [Pattern21.java](./Pattern21.java)        |
 | 22 | 4 4 4 4 4 4 4<br>4 3 3 3 3 3 4<br>4 3 2 2 2 3 4<br>4 3 2 1 2 3 4<br>4 3 2 2 2 3 4<br>4 3 3 3 3 3 4<br>4 4 4 4 4 4 4 | [Pattern22.java](./Pattern22.java)        |
 
 ---
